@@ -60,13 +60,13 @@ Here’s a revised version of the profile tailored for **Rishabh Jha** based on 
 
 ## 🏆 Hackathon Experience  
 - **Judge at Scheduling Hackathon**  
-- **Participant in Smart India Hackathon** (Training Website Project)  
+- **Participant in Smart India Hackathon** (Tech-Trek)  
 
 ## 🏢 Professional Experience  
 
-### Morgan Stanley (Oct 2024 – Present)  
-**Backend ETS Intern**  
-- Working with Java and Spring Boot to enhance system efficiency.  
+### Morgan Stanley (July 2024 – Present)  
+**Intern**  
+- Working with Java, Spring Boot, Apache Camel, etc.  
 
 ### Curious Business Solutions Pvt. Ltd. (Jan 2024 – Jun 2024)  
 **Full Stack Developer**  
